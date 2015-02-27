@@ -1,0 +1,9 @@
+This project is done by @Manzar Ali
+
+Description:
+This is a matrix computer which merely perform operations on matrices on user demand providing a selective menu to the user.
+There is a main class named Matrix which has some functions 
+involving the readfile function performing addition and Multiplication and a dual operation.
+There are three unit test cases which tests the ecaxt expected  output of the operation performed.
+
+IMPORTANT: Although the program is complete but there are some compilation errors so it must not giving the exact output.
